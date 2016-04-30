@@ -7,6 +7,8 @@ http://cafe.naver.com/hobbydyi/1782
 
 main board 
 
+<img src ="https://github.com/mocona05/Labview-Arduino-TCP-IP/blob/master/TCP-IP_ARDUINO/image.png">
+
 <img src="https://github.com/mocona05/Labview-Arduino-TCP-IP/blob/master/TCP-IP_ARDUINO/PCB/2.png">
 
 <img src="https://github.com/mocona05/Labview-Arduino-TCP-IP/blob/master/TCP-IP_ARDUINO/PCB/1.png">
